@@ -1,0 +1,158 @@
+[
+  {
+    "id": "prod_9",
+    "_id": "prod_9",
+    "name": "Samosa Patti",
+    "category": "Pattis & Wrappers",
+    "price": 380,
+    "packSize": "500g (Approx 40-50 Sheets)",
+    "description": "Ultra-thin, crispy traditional samosa wrapper sheets. Customizable height and width dimensions.",
+    "image": "/products/chicken-samosa.jpg",
+    "inStock": true,
+    "featured": true,
+    "availableHeights": [
+      "2.5\"",
+      "3.0\"",
+      "3.8\""
+    ],
+    "availableWidths": [
+      "7.0\"",
+      "7.5\"",
+      "8.0\""
+    ],
+    "availableSizes": [
+      "2.5\" × 7\"",
+      "3\" × 8\"",
+      "2.5\" × 7.5\"",
+      "3\" × 7\""
+    ],
+    "availablePackSizes": [
+      "250 gram",
+      "500 gram",
+      "1 kg"
+    ]
+  },
+  {
+    "id": "prod_10",
+    "_id": "prod_10",
+    "name": "Roll Patti",
+    "category": "Pattis & Wrappers",
+    "price": 420,
+    "packSize": "500g (Approx 35-40 Sheets)",
+    "description": "Crispy square spring roll pastry sheets. Perfect for homemade rolls. Customizable height and width dimensions.",
+    "image": "/products/spring-rolls.jpg",
+    "inStock": true,
+    "featured": true,
+    "availableHeights": [
+      "7.0\"",
+      "7.5\"",
+      "8.0\""
+    ],
+    "availableWidths": [
+      "7.0\"",
+      "7.5\"",
+      "8.0\""
+    ],
+    "availableSizes": [
+      "7\" × 7\"",
+      "7.5\" × 7.5\"",
+      "8\" × 8\""
+    ]
+  },
+  {
+    "id": "prod_1",
+    "_id": "prod_1",
+    "name": "Chicken Samosa",
+    "category": "Samosas",
+    "price": 650,
+    "packSize": "12 Pieces / Pack",
+    "description": "Crispy pastry stuffed with seasoned minced chicken, herbs, and spices.",
+    "image": "/products/chicken-samosa.jpg",
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "prod_2",
+    "_id": "prod_2",
+    "name": "Beef Kebab",
+    "category": "Kebabs",
+    "price": 950,
+    "packSize": "12 Pieces / Pack",
+    "description": "Tender beef and lentil patties infused with traditional aromatic spices. Ready to fry.",
+    "image": "/products/beef-kebab.jpg",
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "prod_3",
+    "_id": "prod_3",
+    "name": "Spring Rolls",
+    "category": "Rolls",
+    "price": 700,
+    "packSize": "12 Pieces / Pack",
+    "description": "Crispy golden rolls filled with seasoned shredded chicken and fresh vegetables.",
+    "image": "/products/spring-rolls.jpg",
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "prod_4",
+    "_id": "prod_4",
+    "name": "Nuggets",
+    "category": "Nuggets & Bites",
+    "price": 850,
+    "packSize": "20 Pieces / 500g",
+    "description": "Pure chicken breast nuggets with a crispy golden crumb coating. Ready to fry.",
+    "image": "/products/nuggets.jpg",
+    "inStock": true,
+    "featured": false
+  },
+  {
+    "id": "prod_5",
+    "_id": "prod_5",
+    "name": "Chicken Patties",
+    "category": "Patties",
+    "price": 800,
+    "packSize": "10 Pieces / Pack",
+    "description": "Multi-layered puff pastry filled with creamy, spiced chicken filling. Bake or air fry.",
+    "image": "/products/chicken-patties.jpg",
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "prod_6",
+    "_id": "prod_6",
+    "name": "Chapli Kebab",
+    "category": "Kebabs",
+    "price": 1100,
+    "packSize": "6 Pieces / Pack",
+    "description": "Traditional spiced minced beef kebabs packed with whole spices and herbs.",
+    "image": "/products/chapli-kebab.jpg",
+    "inStock": true,
+    "featured": false
+  },
+  {
+    "id": "prod_7",
+    "_id": "prod_7",
+    "name": "Aloo Samosa",
+    "category": "Samosas",
+    "price": 450,
+    "packSize": "12 Pieces / Pack",
+    "description": "Crispy pastry stuffed with spiced potatoes, green peas, and whole cumin spices.",
+    "image": "/products/aloo-samosa.jpg",
+    "inStock": true,
+    "featured": false
+  },
+  {
+    "id": "prod_8",
+    "_id": "prod_8",
+    "name": "Paratha",
+    "category": "Parathas",
+    "price": 550,
+    "packSize": "10 Pieces / Pack",
+    "description": "Crispy layered homestyle plain parathas. Ready in 3 minutes from freezer to pan.",
+    "image": "/products/paratha.jpg",
+    "inStock": true,
+    "featured": false
+  }
+]
