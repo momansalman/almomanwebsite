@@ -4,6 +4,8 @@ import path from "path";
 import { findOrderByIdOrNumber } from "@/lib/orderStore";
 import { generateInvoice } from "@/lib/generateInvoice";
 
+export const dynamic = "force-dynamic";
+
 export async function GET(
   req: NextRequest,
   { params }: { params: { id: string } }

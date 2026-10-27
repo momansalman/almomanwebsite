@@ -2,6 +2,8 @@ import { NextRequest, NextResponse } from "next/server";
 import { confirmOrderByIdAndToken } from "@/lib/orderStore";
 import { notifyCustomerOrderConfirmed } from "@/lib/whatsappService";
 
+export const dynamic = 'force-dynamic';
+
 export async function GET(req: NextRequest) {
   try {
     const searchParams = req.nextUrl.searchParams;

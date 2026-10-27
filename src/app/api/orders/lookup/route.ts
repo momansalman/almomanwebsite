@@ -1,6 +1,8 @@
 import { NextRequest, NextResponse } from "next/server";
 import { findOrdersByPhoneOrQuery } from "@/lib/orderStore";
 
+export const dynamic = 'force-dynamic';
+
 export async function GET(req: NextRequest) {
   try {
     const query = req.nextUrl.searchParams.get("query") || req.nextUrl.searchParams.get("q") || "";
